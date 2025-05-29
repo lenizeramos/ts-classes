@@ -1,3 +1,5 @@
+> **Note:** This repository is a personal backup of coursework originally developed as part of my studies at Cornerstone College. It was cloned from a institutional and private repository to preserve my contributions and development history.
+
 # TypeScript Class Practice
 
 In this exercise, you will simulate an airport luggage system using TypeScript classes. Airports typically allow luggage up to 23kg without extra charges. Beyond this limit, an extra fee is charged per additional kilo. If the luggage has a different priority status,the extra kilo charge increases.
